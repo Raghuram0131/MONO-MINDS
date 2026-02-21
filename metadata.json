@@ -1,5 +1,0 @@
-{
-  "name": "CodeRefine",
-  "description": "Generative AI–Powered Code Review & Optimization Engine that analyzes source code for bugs, performance, and security, providing optimized rewrites.",
-  "requestFramePermissions": []
-}
